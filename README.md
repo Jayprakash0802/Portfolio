@@ -1,6 +1,3 @@
-# Portfolio Template
-
-https://github.com/Jayprakash0802/Portfolio
 
 
 ## Built With
