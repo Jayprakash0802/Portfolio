@@ -218,7 +218,7 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'YelpCamp',
+    name: 'Campground',
     description: 'Navigate camping areas with review system',
     tags: [
       {
