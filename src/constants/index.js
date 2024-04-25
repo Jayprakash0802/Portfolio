@@ -195,7 +195,7 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Blue Bird',
+    name: 'Phoenix',
     description:
       'A movie-fetching app that retrieves all the latest and trending movies.',
     tags: [
@@ -213,8 +213,8 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/Jayprakash0802/Blue-Bird',
-    demo: 'https://bluebirdmovies.netlify.app/',
+    repo: 'https://github.com/Jayprakash0802/Phoenix-movies',
+    demo: 'https://phoenix-movies-seven.vercel.app/',
   },
   {
     id: 'project-3',
